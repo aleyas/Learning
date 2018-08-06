@@ -1,7 +1,13 @@
 package trash;
 
 import java.math.BigDecimal;
+import java.text.DateFormat;
 import java.text.NumberFormat;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.Date;
+import java.util.GregorianCalendar;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -40,7 +46,10 @@ public class Main {
         long bigLang = 10_000_000;
         System.out.println(NumberFormat.getNumberInstance().format(bigLang));
 
-        stringbuilder();
+       // stringbuilder();
+        //dateFormatTime();
+        //calculator();
+        textTrycatch();
     }
 
         //Stringbuilder
@@ -52,6 +61,54 @@ public class Main {
             builded.append(new Scanner(System.in).nextLine());
         }
         System.out.println(builded);
+
+    }
+
+    //date and time
+    private static void dateFormatTime(){
+
+        LocalDate ld = LocalDate.of(2000,1,12);
+        LocalDateTime ldt = LocalDateTime.now();
+        System.out.println(LocalDateTime.now());
+        System.out.println(DateTimeFormatter.ofPattern("M/d/yyyy hh:mm:ss.SSS").format(ldt));
+    }
+
+    //cal Example
+    private static void calculator (){
+
+        Scanner scanner = new Scanner((System.in));
+
+        System.out.println("Enter a numeric Value:");
+        double firstValue = Double.valueOf(scanner.next());
+
+        System.out.println("Enter a numeric Value:");
+        double secondValue = Double.valueOf(scanner.next());
+
+
+        System.out.println("Addition: "+ (firstValue + secondValue));
+        System.out.println("Multiple: "+ (firstValue * secondValue));
+        System.out.println("Substation: "+ (firstValue / secondValue));
+        System.out.println("Modulus: "+ (firstValue % secondValue));
+
+    }
+
+    //tryCatch
+
+    private static void textTrycatch (){
+
+        String myText = "Try!";
+        char [] chars = myText.toCharArray();
+
+        try {
+            if (chars.length < 10) {
+                throw (new Exception("this text!"));
+            }
+        }  catch (Exception e) {
+            System.out.println(e.getMessage());
+            e.printStackTrace();
+        } {
+
+        }
     }
 
 

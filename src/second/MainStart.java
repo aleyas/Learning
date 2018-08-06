@@ -11,11 +11,19 @@ public class MainStart {
     public void order(){
         System.out.println("choise your model"+ "Porsche"+"");
     }
+
     public static void main (String args[]) {
 
     Moving myObject = new Moving();
         System.out.println("Airplane could fly: " + myObject.fly("Airplane"));
+
+    MakeVehicle newVehicle = new MakeVehicle("Ship");
+
+
     }
+
+
+
 }
 
 

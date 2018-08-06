@@ -2,7 +2,7 @@ package second;
 
 import java.util.Random;
 
-public class Moving implements Imoving {
+public class Moving  {
 
 
     public int getSpeed(String vehicleName){
@@ -45,17 +45,7 @@ public class Moving implements Imoving {
         }
     }
     public boolean publicTransport(String vehicleName){
-        if (vehicleName.equals("Ship")){
-            return false; }
-        else if (vehicleName.equals("Train")){
-            return true;
-        } else if (vehicleName.equals("Airplane")){
-            return true;
-        } else if (vehicleName.equals("Auto")){
-            return true;
-        } else {
-            return false;
-        }
+        return vehicleName.equals("Ship") ? false : true;
     }
     public int distance (String startPoint, String target){
         Random randi = new Random();
