@@ -1,27 +1,18 @@
 package second;
 
-import java.sql.Struct;
+import java.util.List;
 
 public class MakeVehicle {
-    protected String vehicleName;
 
-    public MakeVehicle (String vehicleName){ this.vehicleName = vehicleName;
-    if (vehicleName.equals("Ship")){
-       Ship newShip = MakeVehicle.this.makeShip();
+    //read counts per order
+    public int getOrder(List<Vehicle> vehicles) {
+
+        int totalOrder = 0;
+        for (Vehicle p : vehicles) {
+            //send a order to make
+            totalOrder += p.orderToMake();
+        }
+        return totalOrder;
     }
-    }
-
-
-    public Ship makeShip(){
-        String vehicleName = "Ship";
-        Ship template = new Ship();
-
-        template.switchingGear(vehicleName);
-        template.powerMotor(vehicleName);
-        template.fly(vehicleName);
-        template.getSpeed(vehicleName);
-        template.publicTransport(vehicleName);
-        return template;
-    }
-
 }
+
