@@ -18,34 +18,15 @@ public class Main {
     public static void main(String args[]) {
 
         String sBool = "true";
+        double value = 12.2323;
+        byte value1 = (byte) value;
         System.out.println(Byte.MAX_VALUE);
 
-        double value = 12.2323;
-        BigDecimal desiSum = new BigDecimal(value);
-
-        BigDecimal sum = desiSum.add(desiSum).add(desiSum);
-        System.out.println(sum);
-
-        byte value1 = (byte) value;
-
-        double valueMathTest = Math.ulp(value);
-        System.out.println(valueMathTest);
-        //tut boolean expression
-        System.out.println(Boolean.parseBoolean(sBool));
-        System.out.println(Character.valueOf('€'));
-        //Operators
-        int s = 12;
-        boolean ample = s != 12 ? true : false;
-        System.out.println(ample);
-
-        Test1 item = new Test1();
-        item.typeString = "input";
-        item.setString();
-
-        //Converting
-        long bigLang = 10_000_000;
-        System.out.println(NumberFormat.getNumberInstance().format(bigLang));
-
+        //mathFuncTest(value);
+        //bigDecimal(value);
+        //booleanException(sBool);
+        //operators();
+        //converting();
         // stringbuilder();
         //dateFormatTime();
         //calculator();
@@ -56,6 +37,41 @@ public class Main {
         //copyArray();
         //twoDemiArray();
         collection();
+    }
+
+
+    private static void mathFuncTest(double value) {
+        double valueMathTest = Math.ulp(value);
+        System.out.println(valueMathTest);
+    }
+
+    private static void bigDecimal(double value) {
+        BigDecimal desiSum = new BigDecimal(value);
+        BigDecimal sum = desiSum.add(desiSum).add(desiSum);
+        System.out.println(sum);
+    }
+
+    private static void booleanException(String sBool) {
+        //tut boolean expression
+        System.out.println(Boolean.parseBoolean(sBool));
+        System.out.println(Character.valueOf('€'));
+    }
+
+    //Operators
+    private static void operators() {
+        int s = 12;
+        boolean ample = s != 12 ? true : false;
+        System.out.println(ample);
+
+        Test1 item = new Test1();
+        item.typeString = "input";
+        item.setString();
+    }
+
+    //Converting
+    private static void converting() {
+        long bigLang = 10_000_000;
+        System.out.println(NumberFormat.getNumberInstance().format(bigLang));
     }
 
     //Stringbuilder
@@ -115,8 +131,8 @@ public class Main {
 
         }
     }
-    //tryCatch
 
+    //tryCatch
     private static void textTrycatch() {
 
         String myText = "Try!";
@@ -179,7 +195,7 @@ public class Main {
     private static double addition (String valueOfString, String valueOfString2){
         return Double.parseDouble(valueOfString) + Double.parseDouble(valueOfString2); }
 
-        private static void print (Object value){ System.out.println(value); }
+    private static void print (Object value){ System.out.println(value); }
 
     private static double addition (String ... values){
         double result = 0;
@@ -205,6 +221,7 @@ public class Main {
         System.out.println(value);
     }
 
+    //matrix and two dimensional Array
     private static void twoDemiArray(){
         String[][] matrix = new String[3][2];
         matrix[0][0] = "baden-baden";
@@ -225,6 +242,7 @@ public class Main {
 
     }
 
+    //Map Set List Example
     private static void collection(){
 
         List<Integer> firstList = new ArrayList<>();
@@ -270,7 +288,8 @@ public class Main {
         firstList.forEach(System.out::println);
         firstMap.keySet().forEach(p -> {
             Main.print(p);
-            Main.readIn();
+            Main.print(firstMap.get(p));
+           // Main.readIn();
         });
 
 

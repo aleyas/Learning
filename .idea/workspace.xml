@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="62f6f7f7-6cdf-45cc-bd37-61404743caa8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/trash/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/trash/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/trash/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trash/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -69,10 +70,14 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/trash/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="252" column="40" selection-start-line="252" selection-start-column="40" selection-end-line="252" selection-end-column="40" />
+            <state relative-caret-position="-547">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#mathFuncTest#0;class#Main#0" />
+                <element signature="method#bigDecimal#0;class#Main#0" />
+                <element signature="method#booleanException#0;class#Main#0" />
+                <element signature="method#operators#0;class#Main#0" />
+                <element signature="method#converting#0;class#Main#0" />
                 <element signature="method#stringbuilder#0;class#Main#0" />
                 <element signature="method#dateFormatTime#0;class#Main#0" />
                 <element signature="method#calculator#0;class#Main#0" />
@@ -82,6 +87,7 @@
                 <element signature="method#addition#1;class#Main#0" />
                 <element signature="method#copyArray#0;class#Main#0" />
                 <element signature="method#twoDemiArray#0;class#Main#0" />
+                <element signature="method#collection#0;class#Main#0" />
               </folding>
             </state>
           </provider>
@@ -158,9 +164,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2971" />
-    <option name="y" value="-56" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="381" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
@@ -382,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533635243267</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new features in trash.main : try function from tutorial">
+      <created>1533733301157</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1533733301157</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -427,8 +439,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2971" y="-56" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
@@ -443,14 +454,14 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32903227" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49944875" visible="true" weight="0.21123321" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49829933" visible="true" weight="0.21123321" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27222732" />
       <window_info id="Learn" order="5" weight="0.32967034" />
-      <window_info id="Structure" order="1" sideWeight="0.5005513" side_tool="true" weight="0.10744811" />
+      <window_info id="Structure" order="1" sideWeight="0.5017007" side_tool="true" visible="true" weight="0.21123321" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49976778" visible="true" weight="0.384785" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49976778" visible="true" weight="0.35170892" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -476,7 +487,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="new setting from project" />
     <MESSAGE value="new feature : TestUnit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new feature : TestUnit" />
+    <MESSAGE value="new features in trash.main : try function from tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="new features in trash.main : try function from tutorial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -782,10 +794,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/trash/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="252" column="40" selection-start-line="252" selection-start-column="40" selection-end-line="252" selection-end-column="40" />
+        <state relative-caret-position="-547">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#mathFuncTest#0;class#Main#0" />
+            <element signature="method#bigDecimal#0;class#Main#0" />
+            <element signature="method#booleanException#0;class#Main#0" />
+            <element signature="method#operators#0;class#Main#0" />
+            <element signature="method#converting#0;class#Main#0" />
             <element signature="method#stringbuilder#0;class#Main#0" />
             <element signature="method#dateFormatTime#0;class#Main#0" />
             <element signature="method#calculator#0;class#Main#0" />
@@ -795,6 +811,7 @@
             <element signature="method#addition#1;class#Main#0" />
             <element signature="method#copyArray#0;class#Main#0" />
             <element signature="method#twoDemiArray#0;class#Main#0" />
+            <element signature="method#collection#0;class#Main#0" />
           </folding>
         </state>
       </provider>
