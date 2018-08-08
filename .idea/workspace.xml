@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f6f7f7-6cdf-45cc-bd37-61404743caa8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/second/MakeVehicleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trash/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trash/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,94 +14,80 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/second/Vehicle.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="23" selection-start-line="23" selection-end-line="23" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="MakeVehicle.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/second/MakeVehicle.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="MakeVehicleTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/second/MakeVehicleTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="16" selection-start-line="16" selection-end-line="16" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ScanIntTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/first/ScanIntTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ConverterTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/first/ConverterTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="MainStart.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/second/MainStart.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="VehicleName.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/second/VehicleName.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="MakeVehicle.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/second/MakeVehicle.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/second/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MakeVehicle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/second/MakeVehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MakeVehicleTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/second/MakeVehicleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainStart.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/second/MainStart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VehicleName.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/second/VehicleName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/trash/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="252" column="40" selection-start-line="252" selection-start-column="40" selection-end-line="252" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#stringbuilder#0;class#Main#0" />
+                <element signature="method#dateFormatTime#0;class#Main#0" />
+                <element signature="method#calculator#0;class#Main#0" />
+                <element signature="method#textTrycatch#0;class#Main#0" />
+                <element signature="method#switchcase#0;class#Main#0" />
+                <element signature="method#looping#0;class#Main#0" />
+                <element signature="method#addition#1;class#Main#0" />
+                <element signature="method#copyArray#0;class#Main#0" />
+                <element signature="method#twoDemiArray#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,6 +102,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -148,7 +139,6 @@
         <option value="$PROJECT_DIR$/src/second/Airplane.java" />
         <option value="$PROJECT_DIR$/src/trash/Test1.java" />
         <option value="$PROJECT_DIR$/src/second/Moving.java" />
-        <option value="$PROJECT_DIR$/src/trash/Main.java" />
         <option value="$PROJECT_DIR$/src/second/Vehicale.java" />
         <option value="$PROJECT_DIR$/src/second/Auto.java" />
         <option value="$PROJECT_DIR$/src/second/VehicleName.java" />
@@ -158,6 +148,7 @@
         <option value="$PROJECT_DIR$/src/test/MakeVehicleTest.java" />
         <option value="$PROJECT_DIR$/src/first/ConverterTest.java" />
         <option value="$PROJECT_DIR$/src/second/MakeVehicleTest.java" />
+        <option value="$PROJECT_DIR$/src/trash/Main.java" />
       </list>
     </option>
   </component>
@@ -168,10 +159,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2228" />
-    <option name="y" value="-335" />
-    <option name="width" value="2195" />
-    <option name="height" value="1211" />
+    <option name="x" value="-2971" />
+    <option name="y" value="-56" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -209,6 +200,12 @@
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="trash" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,19 +256,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MakeVehicleTest.testUnit">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Auto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="second.Auto" />
-      <module name="Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="second.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="BMW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second.BMW" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -300,6 +287,29 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="MakeVehicleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="second" />
+      <option name="MAIN_CLASS_NAME" value="second.MakeVehicleTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="MakeVehicleTest.testUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <extension name="coverage">
@@ -325,18 +335,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Auto" />
-      <item itemvalue="Application.BMW" />
       <item itemvalue="Application.MainStart" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="JUnit.MakeVehicleTest.testUnit" />
+      <item itemvalue="JUnit.MakeVehicleTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MakeVehicleTest.testUnit" />
-        <item itemvalue="Application.MainStart" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.MakeVehicleTest" />
+        <item itemvalue="Application.MainStart" />
+        <item itemvalue="JUnit.MakeVehicleTest.testUnit" />
         <item itemvalue="Application.Auto" />
-        <item itemvalue="Application.BMW" />
       </list>
     </recent_temporary>
   </component>
@@ -365,13 +375,17 @@
       <option name="project" value="LOCAL" />
       <updated>1533632302609</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new feature : TestUnit">
+      <created>1533635243267</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1533635243267</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ScanIntTest_testWrongInput - 2018.07.19 at 17h 20m 20s.xml">
-      <configuration name="ScanIntTest.testWrongInput" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ScanIntTest - 2018.07.19 at 17h 21m 29s.xml">
       <configuration name="ScanIntTest" configurationId="JUnit" />
     </history-entry>
@@ -399,6 +413,9 @@
     <history-entry file="MakeVehicleTest_testUnit - 2018.08.07 at 11h 44m 47s.xml">
       <configuration name="MakeVehicleTest.testUnit" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MakeVehicleTest - 2018.08.07 at 11h 50m 09s.xml">
+      <configuration name="MakeVehicleTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -410,11 +427,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2228" y="-335" width="2195" height="1211" extended-state="0" />
+    <frame x="-2971" y="-56" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32813933" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32745314" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -425,14 +443,14 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32903227" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944875" visible="true" weight="0.160706" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49944875" visible="true" weight="0.21123321" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27222732" />
       <window_info id="Learn" order="5" weight="0.32967034" />
       <window_info id="Structure" order="1" sideWeight="0.5005513" side_tool="true" weight="0.10744811" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49976778" visible="true" weight="0.43263063" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49976778" visible="true" weight="0.384785" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,7 +475,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="new setting from project" />
-    <option name="LAST_COMMIT_MESSAGE" value="new setting from project" />
+    <MESSAGE value="new feature : TestUnit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new feature : TestUnit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -468,7 +487,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/Testtest.java" />
     <entry file="file://$PROJECT_DIR$/src/com/first/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -587,13 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/function/BiConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -647,18 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/trash/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="102" column="30" selection-start-line="102" selection-start-column="30" selection-end-line="102" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#dateFormatTime#0;class#Main#0" />
-            <element signature="method#calculator#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/second/Auto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
@@ -698,16 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/second/MainStart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,12 +742,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/second/MakeVehicleTest.java">
+    <entry file="file://$PROJECT_DIR$/src/second/MainStart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="165">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/MakeVehicleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="375" column="18" selection-start-line="375" selection-start-column="18" selection-end-line="375" selection-end-column="18" />
+          <folding>
+            <element signature="e#15711#15712#0" expanded="true" />
+            <element signature="e#15747#15748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/function/BiConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trash/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="252" column="40" selection-start-line="252" selection-start-column="40" selection-end-line="252" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#stringbuilder#0;class#Main#0" />
+            <element signature="method#dateFormatTime#0;class#Main#0" />
+            <element signature="method#calculator#0;class#Main#0" />
+            <element signature="method#textTrycatch#0;class#Main#0" />
+            <element signature="method#switchcase#0;class#Main#0" />
+            <element signature="method#looping#0;class#Main#0" />
+            <element signature="method#addition#1;class#Main#0" />
+            <element signature="method#copyArray#0;class#Main#0" />
+            <element signature="method#twoDemiArray#0;class#Main#0" />
           </folding>
         </state>
       </provider>
