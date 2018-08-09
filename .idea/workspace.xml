@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62f6f7f7-6cdf-45cc-bd37-61404743caa8" name="Default" comment="">
+    <list default="true" id="62f6f7f7-6cdf-45cc-bd37-61404743caa8" name="Default" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/second/dataType/CarModels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/second/dataType/DeliveryTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/second/model/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/second/model/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/second/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/second/model/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/second/model/Train.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/second/MainStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/second/MainStart.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Learning/trash/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/trash/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/second/MainStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/second/MainStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/second/MakeVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/second/MakeVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/second/MakeVehicleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/second/test/MakeVehicleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/second/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/second/model/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/second/VehicleName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/second/dataType/VehicleName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/trash/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trash/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,86 +27,175 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Learning$MakeVehicleTest.ic" NAME="MakeVehicleTest Coverage Results" MODIFIED="1533826222761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>second.model.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Learning" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/second/Vehicle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MakeVehicle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/second/MakeVehicle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MakeVehicleTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/second/MakeVehicleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainStart.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/second/MainStart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VehicleName.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/second/VehicleName.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/trash/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-547">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="method#mathFuncTest#0;class#Main#0" />
-                <element signature="method#bigDecimal#0;class#Main#0" />
-                <element signature="method#booleanException#0;class#Main#0" />
-                <element signature="method#operators#0;class#Main#0" />
-                <element signature="method#converting#0;class#Main#0" />
-                <element signature="method#stringbuilder#0;class#Main#0" />
-                <element signature="method#dateFormatTime#0;class#Main#0" />
-                <element signature="method#calculator#0;class#Main#0" />
-                <element signature="method#textTrycatch#0;class#Main#0" />
-                <element signature="method#switchcase#0;class#Main#0" />
-                <element signature="method#looping#0;class#Main#0" />
-                <element signature="method#addition#1;class#Main#0" />
-                <element signature="method#copyArray#0;class#Main#0" />
-                <element signature="method#twoDemiArray#0;class#Main#0" />
-                <element signature="method#collection#0;class#Main#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.6902146">
+      <split-first>
+        <splitter split-orientation="horizontal" split-proportion="0.5">
+          <split-first>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/src/second/model/Vehicle.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="330">
+                      <caret line="22" selection-start-line="22" selection-end-line="22" />
+                      <folding>
+                        <element signature="imports" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="MakeVehicle.java" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/second/MakeVehicle.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="180">
+                      <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="Ship.java" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/second/model/Ship.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="135">
+                      <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+                      <folding>
+                        <element signature="imports" expanded="true" />
+                        <element signature="e#170#171#0" expanded="true" />
+                        <element signature="e#238#239#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="Airplane.java" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/second/model/Airplane.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="255">
+                      <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+                      <folding>
+                        <element signature="imports" expanded="true" />
+                        <element signature="e#150#151#0" expanded="true" />
+                        <element signature="e#222#223#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="Train.java" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/second/model/Train.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="45">
+                      <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+                      <folding>
+                        <element signature="e#140#141#0" expanded="true" />
+                        <element signature="e#209#210#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="MainStart.java" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/second/MainStart.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="270">
+                      <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+                      <folding>
+                        <element signature="imports" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="MakeVehicleTest.java" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/second/test/MakeVehicleTest.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="195">
+                      <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+                      <folding>
+                        <element signature="imports" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="VehicleName.java" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/second/dataType/VehicleName.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="30">
+                      <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+                      <folding>
+                        <element signature="e#263#264#0" expanded="true" />
+                        <element signature="e#302#303#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="DeliveryTime.java" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/second/dataType/DeliveryTime.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="30">
+                      <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+                      <folding>
+                        <element signature="e#298#299#0" expanded="true" />
+                        <element signature="e#337#338#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="CarModels.java" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/second/dataType/CarModels.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="75">
+                      <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file leaf-file-name="Ship.java" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/src/second/model/Ship.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="165">
+                      <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+                      <folding>
+                        <element signature="imports" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="DeliveryTime.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/second/dataType/DeliveryTime.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="18" selection-start-line="18" selection-end-line="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,15 +204,26 @@
         <option value="JUnit4 Test Class" />
         <option value="JUnit3 Test Class" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.parse(&quot;2019-02-01&quot;)</find>
+      <find>new SimpleDateFormat(&quot;2019-02-01&quot;).format(new Date()))</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.format(new Date())</replace>
+      <replace>DeliveryTime.</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="BasicVersion" />
       </map>
     </option>
   </component>
@@ -147,14 +260,24 @@
         <option value="$PROJECT_DIR$/src/second/Moving.java" />
         <option value="$PROJECT_DIR$/src/second/Vehicale.java" />
         <option value="$PROJECT_DIR$/src/second/Auto.java" />
-        <option value="$PROJECT_DIR$/src/second/VehicleName.java" />
-        <option value="$PROJECT_DIR$/src/second/MainStart.java" />
-        <option value="$PROJECT_DIR$/src/second/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/second/MakeVehicle.java" />
         <option value="$PROJECT_DIR$/src/test/MakeVehicleTest.java" />
         <option value="$PROJECT_DIR$/src/first/ConverterTest.java" />
-        <option value="$PROJECT_DIR$/src/second/MakeVehicleTest.java" />
         <option value="$PROJECT_DIR$/src/trash/Main.java" />
+        <option value="$PROJECT_DIR$/src/second/DeliveryTime.java" />
+        <option value="$PROJECT_DIR$/src/second/CarModels.java" />
+        <option value="$PROJECT_DIR$/src/second/Car.java" />
+        <option value="$PROJECT_DIR$/src/second/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/second/VehicleName.java" />
+        <option value="$PROJECT_DIR$/src/second/model/Bus.java" />
+        <option value="$PROJECT_DIR$/src/second/model/Ship.java" />
+        <option value="$PROJECT_DIR$/src/second/model/Train.java" />
+        <option value="$PROJECT_DIR$/src/second/model/Airplane.java" />
+        <option value="$PROJECT_DIR$/src/second/dataType/VehicleName.java" />
+        <option value="$PROJECT_DIR$/src/second/MakeVehicleTest.java" />
+        <option value="$PROJECT_DIR$/src/second/model/Car.java" />
+        <option value="$PROJECT_DIR$/src/second/model/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/second/MainStart.java" />
       </list>
     </option>
   </component>
@@ -164,10 +287,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="381" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2770" />
+    <option name="y" value="-306" />
+    <option name="width" value="2299" />
+    <option name="height" value="1079" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -204,13 +328,7 @@
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="trash" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,13 +379,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="JUnit.MakeVehicleTest.testUnit">
     <configuration name="Auto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="second.Auto" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second.*" />
+          <option name="PATTERN" value="second.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,7 +405,7 @@
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second.*" />
+          <option name="PATTERN" value="second.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,14 +414,14 @@
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second.*" />
+          <option name="PATTERN" value="second.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="second" />
-      <option name="MAIN_CLASS_NAME" value="second.MakeVehicleTest" />
+      <option name="PACKAGE_NAME" value="second.test" />
+      <option name="MAIN_CLASS_NAME" value="second.test.MakeVehicleTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -319,14 +437,14 @@
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second.*" />
+          <option name="PATTERN" value="second.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="second" />
-      <option name="MAIN_CLASS_NAME" value="second.MakeVehicleTest" />
+      <option name="PACKAGE_NAME" value="second.test" />
+      <option name="MAIN_CLASS_NAME" value="second.test.MakeVehicleTest" />
       <option name="METHOD_NAME" value="testUnit" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -347,10 +465,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.MakeVehicleTest.testUnit" />
         <item itemvalue="JUnit.MakeVehicleTest" />
         <item itemvalue="Application.MainStart" />
-        <item itemvalue="JUnit.MakeVehicleTest.testUnit" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Auto" />
       </list>
     </recent_temporary>
@@ -394,25 +512,17 @@
       <option name="project" value="LOCAL" />
       <updated>1533733301157</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1533739587448</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1533739587448</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ScanIntTest - 2018.07.19 at 17h 21m 29s.xml">
-      <configuration name="ScanIntTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ScanIntTest - 2018.07.19 at 17h 26m 35s.xml">
-      <configuration name="ScanIntTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ScanIntTest - 2018.07.20 at 09h 12m 31s.xml">
-      <configuration name="ScanIntTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ScanIntTest - 2018.07.31 at 14h 01m 07s.xml">
-      <configuration name="ScanIntTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MakeVehicleTest_testUnit - 2018.08.07 at 11h 35m 49s.xml">
-      <configuration name="MakeVehicleTest.testUnit" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MakeVehicleTest_testUnit - 2018.08.07 at 11h 35m 59s.xml">
       <configuration name="MakeVehicleTest.testUnit" configurationId="JUnit" />
     </history-entry>
@@ -428,6 +538,21 @@
     <history-entry file="MakeVehicleTest - 2018.08.07 at 11h 50m 09s.xml">
       <configuration name="MakeVehicleTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MakeVehicleTest_testUnit - 2018.08.09 at 11h 47m 10s.xml">
+      <configuration name="MakeVehicleTest.testUnit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MakeVehicleTest_testUnit - 2018.08.09 at 12h 15m 51s.xml">
+      <configuration name="MakeVehicleTest.testUnit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MakeVehicleTest - 2018.08.09 at 16h 50m 23s.xml">
+      <configuration name="MakeVehicleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MakeVehicleTest_testUnit - 2018.08.09 at 16h 56m 54s.xml">
+      <configuration name="MakeVehicleTest.testUnit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MakeVehicleTest_testUnit - 2018.08.09 at 16h 57m 06s.xml">
+      <configuration name="MakeVehicleTest.testUnit" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -439,30 +564,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="-2770" y="-306" width="2299" height="1079" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32745314" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32846716" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3274244" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002322" side_tool="true" weight="0.43263063" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.21855922" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30889094" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3299725" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29092804" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295099" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3296411" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32846716" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49829933" visible="true" weight="0.21123321" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.44477174" visible="true" weight="0.116083294" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.27222732" />
       <window_info id="Learn" order="5" weight="0.32967034" />
-      <window_info id="Structure" order="1" sideWeight="0.5017007" side_tool="true" visible="true" weight="0.21123321" />
+      <window_info id="Structure" order="1" sideWeight="0.5552283" side_tool="true" weight="0.21123321" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49976778" visible="true" weight="0.35170892" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49976778" visible="true" weight="0.35245046" />
+      <window_info id="Favorites" order="6" sideWeight="0.5552283" side_tool="true" weight="0.21123321" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -484,11 +610,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update" />
     <MESSAGE value="new setting from project" />
     <MESSAGE value="new feature : TestUnit" />
     <MESSAGE value="new features in trash.main : try function from tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="new features in trash.main : try function from tutorial" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -499,38 +625,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/first/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/first/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/first/Converter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FirstTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/FirstTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/first/Converter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scond.java" />
-    <entry file="file://$PROJECT_DIR$/first/first.iml" />
     <entry file="file://$PROJECT_DIR$/Learning.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -684,13 +778,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/second/VehicleName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/MakeVehicleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -712,24 +799,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/second/MakeVehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/first/ScanIntTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/second/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -754,26 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/second/MainStart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/second/MakeVehicleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Throwable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-63">
@@ -792,10 +845,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="173" column="40" lean-forward="true" selection-start-line="173" selection-start-column="40" selection-end-line="173" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/trash/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-547">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="240">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
           <folding>
             <element signature="method#mathFuncTest#0;class#Main#0" />
             <element signature="method#bigDecimal#0;class#Main#0" />
@@ -812,6 +872,129 @@
             <element signature="method#copyArray#0;class#Main#0" />
             <element signature="method#twoDemiArray#0;class#Main#0" />
             <element signature="method#collection#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/model/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/model/Train.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/dataType/DeliveryTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/dataType/CarModels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/model/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/dataType/VehicleName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/test/MakeVehicleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/MakeVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/model/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/MainStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/model/Airplane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/model/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

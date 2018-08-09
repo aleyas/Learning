@@ -1,5 +1,7 @@
 package second;
 
+import second.model.Vehicle;
+
 import java.util.List;
 
 public class MakeVehicle {

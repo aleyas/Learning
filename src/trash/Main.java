@@ -22,6 +22,8 @@ public class Main {
         byte value1 = (byte) value;
         System.out.println(Byte.MAX_VALUE);
 
+        System.out.println(new Date());
+
         //mathFuncTest(value);
         //bigDecimal(value);
         //booleanException(sBool);
