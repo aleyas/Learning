@@ -1,4 +1,4 @@
-package second;
+package second.dataType;
 
 public enum VehicleName {
 
@@ -6,10 +6,14 @@ public enum VehicleName {
     CAR ("Car"),
     SHIP("Ship"),
     Train ("Train"),
-    Bus ("Bus");
+    BUS ("Bus");
 
     private String name;
 
     VehicleName(String  name){this.name = name;}
 
+    @Override
+    public String toString() {
+        return name;
+    }
 }

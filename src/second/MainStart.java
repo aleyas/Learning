@@ -1,20 +1,27 @@
 package second;
 
+import second.dataType.CarModels;
+import second.model.*;
+
+import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.List;
 
 public class MainStart {
 
-    public static void main (String [] args){
+    private static CarModels carModel;
+
+    public static void main (String [] args) {
 
         //List of orders
         List<Vehicle> vehicles = new ArrayList<>();
-        vehicles.add(new Vehicle(VehicleName.AIRPLANE,4));
-        vehicles.add(new Vehicle(VehicleName.Bus,15));
-        vehicles.add(new Vehicle(VehicleName.SHIP,3));
-        vehicles.add(new Vehicle(VehicleName.CAR,35));
-        vehicles.add(new Vehicle(VehicleName.Train,5));
-        vehicles.add(new Vehicle(VehicleName.Train,5));
+
+        vehicles.add(new Car(CarModels.BMW));
+        vehicles.add(new Car(CarModels.AUDI));
+        vehicles.add(new Ship());
+        vehicles.add(new Bus());
+        vehicles.add(new Airplane());
+        vehicles.add(new Train());
 
         //give list of orders to make
         MakeVehicle makeOrder = new MakeVehicle();
